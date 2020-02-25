@@ -1,4 +1,4 @@
-package com.sellics.model;
+package com.sellics.dto;
 
 public class Suggestion {
 

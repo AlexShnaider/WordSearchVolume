@@ -1,6 +1,6 @@
 package com.sellics.controller;
 
-import com.sellics.model.SearchVolumeResult;
+import com.sellics.dto.SearchVolumeResult;
 import com.sellics.service.SearchVolumeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

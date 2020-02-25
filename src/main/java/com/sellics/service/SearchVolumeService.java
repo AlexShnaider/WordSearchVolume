@@ -1,6 +1,6 @@
 package com.sellics.service;
 
-import com.sellics.model.SearchVolumeResult;
+import com.sellics.dto.SearchVolumeResult;
 
 public interface SearchVolumeService {
 

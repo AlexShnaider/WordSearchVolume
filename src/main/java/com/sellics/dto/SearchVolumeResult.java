@@ -1,4 +1,4 @@
-package com.sellics.model;
+package com.sellics.dto;
 
 public class SearchVolumeResult {
 
@@ -8,6 +8,18 @@ public class SearchVolumeResult {
     public SearchVolumeResult(String word) {
         this.word = word;
         this.searchVolume = -1;
+    }
+
+    public String getWord() {
+        return word;
+    }
+
+    public void setWord(String word) {
+        this.word = word;
+    }
+
+    public int getSearchVolume() {
+        return searchVolume;
     }
 
     public void setSearchVolume(int searchVolume) {

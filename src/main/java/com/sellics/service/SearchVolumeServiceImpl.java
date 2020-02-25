@@ -1,8 +1,8 @@
 package com.sellics.service;
 
-import com.sellics.model.Suggestion;
-import com.sellics.model.SuggestionsResponse;
-import com.sellics.model.SearchVolumeResult;
+import com.sellics.dto.Suggestion;
+import com.sellics.dto.SuggestionsResponse;
+import com.sellics.dto.SearchVolumeResult;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
