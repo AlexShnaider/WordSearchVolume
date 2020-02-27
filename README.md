@@ -31,7 +31,7 @@ get word search-volume:
 ```
 ### What assumptions are made?
 The Amazon suggestion API returns up to 11 suggestions when you start writing an input word.
-![GitHub Logo](./src/main/resources/pictures/amazon_search.png)
+![Alt text](./src/main/resources/pictures/amazon_search.png?raw=true)
 
 * If Amazon API returned 11 suggestions first one is for the widget 
 (suggesting in which category of the Amazon customer can find this product);
